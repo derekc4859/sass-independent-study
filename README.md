@@ -1,4 +1,4 @@
-# API Independent Study
+# SASS Independent Study
 
 ## The Table of Contents
 
