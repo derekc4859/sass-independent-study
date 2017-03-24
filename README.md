@@ -1,4 +1,4 @@
-#API Independent Stu
+# API Independent Study
 
 ## The Table of Contents
 
