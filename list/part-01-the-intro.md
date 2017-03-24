@@ -2,6 +2,7 @@
 
 ## What is SASS?
 
-SASS is a scripting language using Ruby to create stylesheets for CSS. 
-SASS unlike CSS, allows you to use variables, nesting, a hierarchy similar to HTML , and
-inheritance. 
+SASS is a scripting language using Ruby to create stylesheets for CSS. In a nutshell, 
+SASS is an add-on to CSS, allowing you to use variables, nesting, 
+a hierarchy similar to HTML , and inheritance. The syntax in SASS resembles basic CSS,
+except there is another syntax for SASS that allows to use syntax like HAML.
