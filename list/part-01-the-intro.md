@@ -9,3 +9,6 @@ except there is another syntax for SASS that allows to use syntax like HAML.
 
 ## How to install SASS
 
+In order to install SASS into your workspace
+
+`gem install sass`
