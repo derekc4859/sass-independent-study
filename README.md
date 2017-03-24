@@ -4,4 +4,4 @@
 
 + [Part 1: The intro](list/part-01-the-intro.md)
 
-Other parts coming soon!
+### Other parts coming soon!
