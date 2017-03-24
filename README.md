@@ -1,5 +1,7 @@
-# The Table of Contents
+#API Independent Stu
 
-+[Part 1: The intro](list/part-01-the-intro.md)
+## The Table of Contents
 
-# Other parts coming soon!
++ [Part 1: The intro](list/part-01-the-intro.md)
+
+Other parts coming soon!
