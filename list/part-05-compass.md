@@ -1,4 +1,4 @@
-# Part 5: Compass and Object Oriented SASS
+# Part 5: Compass
 
 ## Compass
 Compass is an add on to SASS that allows you to organize your SCSS and CSS files in seperate folders and, keep track of changes from a specific SCSS file to CSS
@@ -12,6 +12,13 @@ get two folders in your project folder. One folder has SCSS files and the other 
 [Example](../images/example.png "Logo Title Text 1")
 
 ### Getting the latest changes from SCSS using Compass
-You need to cd into your new css folder if you want a css file to get the latest
+You need to cd into your new CSS folder if you want a CSS file to get the latest changes. When you are in your CSS folder, use `compass watch example.css` to track any SCSS file of the same name 
+to give changes to the CSS file.
 
-## Object Oriented SASS
+## Takeaways
+
+### Be careful with syntax
+
+One small syntax can cause an important part of your SCSS file to not function properly. When I was debugging my SCSS file, I had no clue what was the cause of my error. But eventually, I found out that
+I was stressing out over a missing semicolon. Because of this event, I learned that when I am debugging, I have to maintain my cool and look for every possible solution to my problem.
+
