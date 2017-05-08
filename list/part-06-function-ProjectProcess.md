@@ -1,4 +1,4 @@
-## Part 6: Current Project, OO in SASS, Functions
+## Part 6: Current Project, Functions
 
 ### What I am currently building
 
@@ -37,4 +37,8 @@ SCSS
 }
 
 ```
+## Takeaways
 
+### Try to plan out what you are doing
+
+### 
