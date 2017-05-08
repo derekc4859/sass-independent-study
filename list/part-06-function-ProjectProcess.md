@@ -8,7 +8,7 @@ the color of the background. The more I tinker around with making my app, the mo
 In addition, I want to make sure that my SASS code looks presentable so that people who are unfamilar about SASS. For now I have some
 CSS buttons made from SCSS as my building blocks for my project.
 
-![My progress](../images/progress.png)
+![My progress](../images/project.png)
 
 ## Functions
 
