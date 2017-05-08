@@ -8,5 +8,4 @@
 + [Part 4: SASS Functions](list/part-04-sass-functions.md)
 + [Part 5: Compass in SASS](list/part-05-compass.md)
 + [Part 6: Current Project and Functions](list/part-06-function-ProjectProcess.md)
-+ 
 ### Other parts coming soon!
