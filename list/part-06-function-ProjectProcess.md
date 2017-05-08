@@ -1,4 +1,4 @@
-## Part 6: Current Project, Functions
+## Part 6: Current Project and Functions
 
 ### What I am currently building
 
@@ -7,6 +7,12 @@ on the color, the text color changes. I am trying to find a way to take the user
 the color of the background. The more I tinker around with making my app, the more I learn about SASS and its usefulness.
 In addition, I want to make sure that my SASS code looks presentable so that people who are unfamilar about SASS. For now I have some
 CSS buttons made from SCSS as my building blocks for my project.
+
+### How does it work
+
+My buttons were formed by SCSS and then transferred over to CSS. I made sure that they all had the same properties. Thanks to SASS, this process was
+done rather quickly since everything is kept organized and contained in classes and variables. I created a function that changes the text color to black
+if the background color of a block is light. 
 
 ![My progress](../images/project.png)
 
@@ -39,6 +45,10 @@ SCSS
 ```
 ## Takeaways
 
-### Try to plan out what you are doing
+### Try to have a starting point on what you are doing
+Even if have no idea what you want to build for your project, at least start off with some building blocks and then branch off from there. For instance, try to use what you learned so far and
+build something basic, something that reflects upon your learning. At first, I had no clue what I wanted to do for my app, but as soon as I started tinkering around and going with the basics, I finally figured out what I wanted to build.
 
-### 
+### Remember that you can still learn new things even when creating something
+Every day we learn something new in our lives. There is never a point where we stop learning. When you are creating something, you can learn new techniques or ideas that you are unfamilar with. 
+I tend to learn better when I try things out or do big tasks. The more I do something, the more skills I acquire that could be useful in the future.
