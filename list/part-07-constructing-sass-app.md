@@ -9,7 +9,7 @@ and how you want it to function. All of the HTML tags shown in the template will
 ![My current project](../images/PreviewProject.png)
 
 ### Internal Questions
-![Question](../images/questionmark?.png)
+![Question](../images/questionmark.png)
 
 #### How would I apply SASS to my app?
 
