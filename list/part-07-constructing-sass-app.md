@@ -4,7 +4,7 @@
 
 My idea of a SASS application is making a website that constructs a webpage layout template.
 This will benefit people who are unfamilar with HTML and CSS since it will give them a visual representation of what everything does in their webpage/website
-and how you want it to function. All of the HTML tags shown in the template will be color-coded, including the buttons that  add the HTML tags in the page template.
+and how you want it to function. All of the HTML tags shown in the template will be color-coded, including the buttons that add the HTML tags in the page template.
 
 ![My current project](../images/PreviewProject.png)
 
