@@ -11,4 +11,4 @@ I can implement div classes on my website
 
 ### Finding the Solution
 
-At first, I had no clue how to bypass my challenge 
+At first, I had no clue how to 
