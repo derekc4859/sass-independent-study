@@ -9,4 +9,5 @@
 + [Part 5: Compass in SASS](list/part-05-compass.md)
 + [Part 6: Current Project and Functions](list/part-06-function-ProjectProcess.md)
 + [Part 7: Constructing SASS App](list/part-07-constructing-sass-app.md)
++ [Part 8: SASS MVP](list/part-08-sass-MVP.md)
 ### Other parts coming soon!
